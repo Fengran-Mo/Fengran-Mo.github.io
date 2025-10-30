@@ -61,7 +61,7 @@ Full publication list could be found in my [Google Scholar](https://scholar.goog
 
 - **Fengran Mo**, Kelong Mao, Ziliang Zhao, Hongjin Qian, Haonan Chen, Yiruo Cheng, Xiaoxi Li, Yutao Zhu, Zhicheng Dou, Jian-Yun Nie. _A Survey of Conversational Search._ *ACM Transactions on Information Systems (TOIS)*, 2025. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3759453)  
 
-- **Fengran Mo**, Yifan Gao, Zhuofeng Wu, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie. _Leveraging Historical Information to Boost Retrieval-Augmented Generation in Conversations._ *Information Processing and Management (IPM) Journal*, 2025.  
+- **Fengran Mo**, Yifan Gao, Zhuofeng Wu, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie. _Leveraging Historical Information to Boost Retrieval-Augmented Generation in Conversations._ *Information Processing and Management (IPM) Journal*, 2025. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457325003905) 
 
 - **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025. [[pdf]](https://www.arxiv.org/pdf/2508.08634)  
 
