@@ -11,8 +11,8 @@ redirect_from:
 
 I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
 
-I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications and social goods.
-My future research vision is to develop interactive AI systems that benefit diverse users with effective and efficient interaction between humans and AI assistants, enabling them to achieve their various goals.
+I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications.
+My recent focus is (1) developing retrieval-augmented interactive AI systems for enhancing effectiveness, robustness, and trustworthiness; and (2) facilitating the human-AI interactions for users with various backgrounds and pursuing knowledge acquisition in AI models for social goods.
 
 My curriculum vitae is available [here](../files/CV.pdf).
 
