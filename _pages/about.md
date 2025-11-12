@@ -30,6 +30,8 @@ Honors and Awards
 Professional Experience
 ======
 ### **Amazon Rufus Team**, Applied Scientist Intern  
+*Palo Alto, Bay Area, USA* — *Aug 2025 – Nov 2025*  
+**Project:** *Optimizing Conversational Agent via Contextualized Reasoning*  
 *Palo Alto, Bay Area, USA* — *Jun 2024 – Dec 2024*  
 **Project:** *Unifying Retrieval and Generation for LLMs in Conversations*  
 **Advisors:** Meng Jiang, Yifan Gao  
