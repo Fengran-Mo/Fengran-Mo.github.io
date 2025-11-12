@@ -59,7 +59,7 @@ I have published more than ten papers as first author and over thirty papers in 
 
 Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Jinghan Zhang, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie. _Convmix: A mixed-criteria data augmentation framework for conversational dense retrieval (AAAI)*, Singapore 2026. [[pdf]](https://arxiv.org/pdf/2508.04001) 
+- **Fengran Mo**, Jinghan Zhang, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie. _Convmix: A mixed-criteria data augmentation framework for conversational dense retrieval._ *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore 2026. [[pdf]](https://arxiv.org/pdf/2508.04001) 
 
 - **Fengran Mo**, Yifan Gao, Chuan Meng, Xin Liu, Zhuofeng Wu, Kelong Mao, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Bing Yin, Meng Jiang. _UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations._ *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025. [[pdf]](https://aclanthology.org/2025.acl-long.344.pdf) 
 
