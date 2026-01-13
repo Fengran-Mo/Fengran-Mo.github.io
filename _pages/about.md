@@ -11,7 +11,7 @@ redirect_from:
 
 I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
 
-I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications.
+I have broad interests in Conversational and Interactive AI, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
 My recent focus is (1) developing retrieval-augmented interactive AI systems for enhancing effectiveness, robustness, and trustworthiness; and (2) facilitating the human-AI interactions for users with various backgrounds and pursuing knowledge acquisition in AI models for social goods.
 
 My curriculum vitae is available [here](../files/CV.pdf).
@@ -55,21 +55,23 @@ Professional Experience
 
 Selected Publications
 ======
-I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, SIGIR, EMNLP, KDD, WWW, CIKM, WSDM, ICLR, IJCAI, IPM, and ACM TOIS, etc. 
+I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, WWW, SIGIR, EMNLP, KDD, CIKM, WSDM, ICLR, AAAI, IJCAI, ICDM, IPM, and ACM TOIS, etc. 
 
 Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Jinghan Zhang, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie. _Convmix: A mixed-criteria data augmentation framework for conversational dense retrieval._ *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore 2026. [[pdf]](https://arxiv.org/pdf/2508.04001) 
+- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026.
+
+- **Fengran Mo**, Jinghan Zhang, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie. _Convmix: A mixed-criteria data augmentation framework for conversational dense retrieval._ *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore 2026. [[pdf]](https://arxiv.org/pdf/2508.04001)
+
+- **Fengran Mo**, Yifan Gao, Zhuofeng Wu, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie. _Leveraging Historical Information to Boost Retrieval-Augmented Generation in Conversations._ *Information Processing and Management (IPM) Journal*, 2026. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457325003905) 
 
 - **Fengran Mo**, Yifan Gao, Chuan Meng, Xin Liu, Zhuofeng Wu, Kelong Mao, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Bing Yin, Meng Jiang. _UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations._ *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025. [[pdf]](https://aclanthology.org/2025.acl-long.344.pdf) 
 
 - **Fengran Mo**, Kelong Mao, Ziliang Zhao, Hongjin Qian, Haonan Chen, Yiruo Cheng, Xiaoxi Li, Yutao Zhu, Zhicheng Dou, Jian-Yun Nie. _A Survey of Conversational Search._ *ACM Transactions on Information Systems (TOIS)*, 2025. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3759453)  
 
-- **Fengran Mo**, Yifan Gao, Zhuofeng Wu, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie. _Leveraging Historical Information to Boost Retrieval-Augmented Generation in Conversations._ *Information Processing and Management (IPM) Journal*, 2025. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457325003905) 
-
 - **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025. [[pdf]](https://www.arxiv.org/pdf/2508.08634)  
 
-- Kaiyu Huang*, **Fengran Mo***, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. [[pdf]](https://arxiv.org/pdf/2405.10936) 
+- **Fengran Mo**, Kaiyu Huang, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. [[pdf]](https://arxiv.org/pdf/2405.10936) 
 
 - **Fengran Mo**, Abbas Ghaddar, Kelong Mao, Mehdi Rezagholizadeh, Boxing Chen, Qun Liu, Jian-Yun Nie. _CHIQ: Contextual History Enhancement for Improving Query Rewriting in Conversational Search._ *Proceedings of the 29th Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Miami, USA, 2024. [[pdf]](https://aclanthology.org/2024.emnlp-main.135.pdf) 
 
@@ -86,7 +88,8 @@ Full publication list could be found in my [Google Scholar](https://scholar.goog
 Academic Service
 ======
 ### Tutorial / Workshop Organizer
-- **First Leading Organizer & Speaker**, *[Conversational Search: From Fundamentals to Frontiers in the LLM Era](https://convsearch.github.io/)*, Tutorial at **SIGIR 2025**, Padova, Italy.  
+- **First Leading Organizer & Speaker**, *[Conversational Search: From Fundamentals to Frontiers in the LLM Era](https://convsearch.github.io/)*, Tutorial at **SIGIR 2025**, Padova, Italy.
+- **First Leading Organizer & Speaker**, *Agentic Conversational Search*, Tutorial at **WWW 2026**, Dubai, UAE.  
 - **First Leading Organizer**, *Multilinguality in the Era of Large Language Models (MeLLMs)*, Workshop at **ACL 2026**, San Diego, USA.  
 
 ---
