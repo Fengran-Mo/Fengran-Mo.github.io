@@ -59,7 +59,7 @@ I have published more than ten papers as first author and over thirty papers in 
 
 Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026.
+- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://arxiv.org/abs/2601.09028) (**Highlight as the Most Recently Exciting study!**)
 
 - **Fengran Mo**, Jinghan Zhang, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie. _Convmix: A mixed-criteria data augmentation framework for conversational dense retrieval._ *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore 2026. [[pdf]](https://arxiv.org/pdf/2508.04001)
 
