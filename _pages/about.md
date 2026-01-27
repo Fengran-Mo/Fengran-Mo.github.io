@@ -18,6 +18,7 @@ My curriculum vitae is available [here](../files/CV.pdf).
 
 Honors and Awards
 ======
+- **Best Paper Award**, *AAAI 2026 Workshop on Agentic AI in Financial Services*
 - **Best Resource Paper Award**, *EMNLP 2024*
 - **Best Paper Award Nomination**, *IEEE ICDM 2025* 
 - **Best Paper Award Nomination**, *ACM WWW 2023*  
