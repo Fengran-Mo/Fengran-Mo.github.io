@@ -7,14 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-✨✨✨**I am now on the faculty job market and looking for any academic positions in North America. I sincerely appreciate any help, guidance, and information!**
-
 I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
 
 I have broad interests in Conversational and Interactive AI, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
 My recent focus is (1) developing retrieval-augmented interactive AI systems for enhancing effectiveness, robustness, and trustworthiness; and (2) facilitating the human-AI interactions for users with various backgrounds and pursuing knowledge acquisition in AI models for social goods.
-
-My curriculum vitae is available [here](../files/CV.pdf).
 
 Honors and Awards
 ======
@@ -37,11 +33,6 @@ Professional Experience
 **Project:** *Unifying Retrieval and Generation for LLMs in Conversations*  
 **Advisors:** Meng Jiang, Yifan Gao  
 
-### **Tsinghua University, AIR**, Visiting Student  
-*Beijing, China* — *Mar 2022 – Jun 2022*  
-**Project:** *Learning to Relate to Previous Turns in Conversational Search*  
-**Co-Advisor:** Yang Liu  
-
 
 ### **Ant Group**, Research Intern  
 *Hangzhou, China* — *May 2021 – Oct 2021*  
@@ -62,6 +53,8 @@ Full publication list could be found in my [Google Scholar](https://scholar.goog
 
 - **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://arxiv.org/abs/2601.09028) (**Highlight as the Most Recently Exciting study!**)
 
+- **Fengran Mo**, Yifan Gao, Sha Li, Hansi Zeng, Xin Liu, Zhaoxuan Tan, Xian Li, Jianshu Chen, Dakuo Wang, Meng Jiang. _Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning._ *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*, San Diego, USA, 2026. [[pdf]](https://arxiv.org/abs/2601.13115)
+
 - **Fengran Mo**, Jinghan Zhang, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie. _Convmix: A mixed-criteria data augmentation framework for conversational dense retrieval._ *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore 2026. [[pdf]](https://arxiv.org/pdf/2508.04001)
 
 - **Fengran Mo**, Yifan Gao, Zhuofeng Wu, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie. _Leveraging Historical Information to Boost Retrieval-Augmented Generation in Conversations._ *Information Processing and Management (IPM) Journal*, 2026. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457325003905) 
@@ -73,8 +66,6 @@ Full publication list could be found in my [Google Scholar](https://scholar.goog
 - **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025. [[pdf]](https://www.arxiv.org/pdf/2508.08634)  
 
 - **Fengran Mo**, Kaiyu Huang, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. [[pdf]](https://arxiv.org/pdf/2405.10936) 
-
-- **Fengran Mo**, Abbas Ghaddar, Kelong Mao, Mehdi Rezagholizadeh, Boxing Chen, Qun Liu, Jian-Yun Nie. _CHIQ: Contextual History Enhancement for Improving Query Rewriting in Conversational Search._ *Proceedings of the 29th Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Miami, USA, 2024. [[pdf]](https://aclanthology.org/2024.emnlp-main.135.pdf) 
 
 - **Fengran Mo**, Chen Qu, Kelong Mao, Yihong Wu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search._ *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, USA, 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679534) 
 
