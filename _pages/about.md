@@ -47,11 +47,11 @@ Professional Experience
 
 Selected Publications
 ======
-I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, WWW, SIGIR, EMNLP, KDD, CIKM, WSDM, ICLR, AAAI, IJCAI, ICDM, IPM, and ACM TOIS, etc. 
+I have published more than ten papers as first author and a set of papers with different cooperators in top-tier conferences and prestigious journals, including ACL, WWW, SIGIR, EMNLP, KDD, CIKM, WSDM, ICLR, AAAI, IJCAI, ICDM, IPM, and ACM TOIS, etc. 
 
-Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
+The full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://arxiv.org/abs/2601.09028) (**Highlight as the Most Recently Exciting study!**)
+- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792524) (**Highlight as the Most Recently Exciting study!**)
 
 - **Fengran Mo**, Yifan Gao, Sha Li, Hansi Zeng, Xin Liu, Zhaoxuan Tan, Xian Li, Jianshu Chen, Dakuo Wang, Meng Jiang. _Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning._ *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*, San Diego, USA, 2026. [[pdf]](https://arxiv.org/abs/2601.13115)
 
@@ -92,16 +92,16 @@ Academic Service
 ---
 
 ### Program Committee Member / Reviewer
-- *ACM SIG Conference on Research and Development in Information Retrieval (SIGIR)*, 2025  
-- *ACM SIG Conference on Knowledge Discovery and Data Mining (KDD)*, 2024  
-- *ACM International Conference on Information and Knowledge Management (CIKM)*, 2023–2025  
+- *ACM SIG Conference on Research and Development in Information Retrieval (SIGIR)*, 2025, 2026  
+- *ACM SIG Conference on Knowledge Discovery and Data Mining (KDD)*, 2024-2026  
+- *ACM International Conference on Information and Knowledge Management (CIKM)*, 2023–2026  
 - *ACM International Conference on Web Search and Data Mining (WSDM)*, 2023–2025  
 - *ACM International World Wide Web Conference (WWW)*, 2024, 2026  
 - *International Conference on Learning Representations (ICLR)*, 2026  
 - *International Conference on Computational Linguistics (COLING)*, 2024  
 - *International Joint Conference on Artificial Intelligence (IJCAI)*, 2025  
 - *European Conference on Information Retrieval (ECIR)*, 2024–2026  
-- *ACM SIG Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP)*, 2025  
+- *ACM SIG Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP)*, 2025, 2026  
 
 ---
 
