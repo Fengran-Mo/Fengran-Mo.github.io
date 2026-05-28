@@ -22,7 +22,6 @@ Honors and Awards
 - **Canada MITACS Globalink Graduate Research Fellowship**, *2021*  
 - **UdeM Doctoral End-of-Study Fellowship**, *2025*  
 - **DIRO Bourses d’Excellence Merit Student Scholarship**, *2021–2025*  
-- **OpenAI Research Program Grant**, *2024*
 
 Professional Experience
 ======
@@ -51,7 +50,7 @@ I have published more than ten papers as first author and a set of papers with d
 
 The full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792524) (**Highlight as the Most Recently Exciting study!**)
+- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792524) (**Highlight as the Most Recently Exciting Study!**)
 
 - **Fengran Mo**, Yifan Gao, Sha Li, Hansi Zeng, Xin Liu, Zhaoxuan Tan, Xian Li, Jianshu Chen, Dakuo Wang, Meng Jiang. _Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning._ *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*, San Diego, USA, 2026. [[pdf]](https://arxiv.org/abs/2601.13115)
 
@@ -65,7 +64,7 @@ The full publication list could be found in my [Google Scholar](https://scholar.
 
 - **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025. [[pdf]](https://www.arxiv.org/pdf/2508.08634)  
 
-- **Fengran Mo**, Kaiyu Huang, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. [[pdf]](https://arxiv.org/pdf/2405.10936) 
+- **Fengran Mo**, Kaiyu Huang, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ *Artificial Intelligence Review (AIR)* 2025. [[pdf]](https://link.springer.com/content/pdf/10.1007/s10462-026-11534-5_reference.pdf) 
 
 - **Fengran Mo**, Chen Qu, Kelong Mao, Yihong Wu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search._ *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, USA, 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679534) 
 
@@ -114,6 +113,7 @@ Academic Service
 
 Talks
 ======
+- *Open Large Language Model Decoding to Incorporate Retrieval Quality in RAG*, hosted by **CLIQ-AI**, 2026.03
 - *Paradigms of Information Retrieval in the era of LLM*, hosted by **Microsoft Research India**, 2025.10
 - *Optimizing Retrieval and Answer Generation for Large Language Models in Conversations*, hosted by **Prof. Yi Zhang** at UC Santa Scuz, 2025.10
 - *Unifying Retrieval and Response Generation for Large Language Models in Conversations*, hosted by **The FinAI**, 2025.08
