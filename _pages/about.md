@@ -11,7 +11,7 @@ I am an Assistant Professor at Rochester Institute of Technology (RIT). I obtain
 
 I have broad interests in Conversational and Interactive AI, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
 
-**I am currently recruiting Ph.D. students starting in Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format. **
+**I am currently recruiting Ph.D. students starting in Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format.**
 
 News
 ======
