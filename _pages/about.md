@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Rochester Institute of Technology (RIT). I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). 
+I am an Assistant Professor at Rochester Institute of Technology (RIT). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). 
 
 I have broad interests in Conversational and Interactive AI, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
 
