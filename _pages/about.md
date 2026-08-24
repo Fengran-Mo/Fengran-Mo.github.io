@@ -7,10 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
+I am an Assistant Professor at Rochester Institute of Technology (RIT). I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). 
 
 I have broad interests in Conversational and Interactive AI, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
-My recent focus is (1) developing retrieval-augmented interactive AI systems for enhancing effectiveness, robustness, and trustworthiness; and (2) facilitating the human-AI interactions for users with various backgrounds and pursuing knowledge acquisition in AI models for social goods.
+
+**I am currently recruiting Ph.D. students starting in Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format. **
+
+News
+======
+- 2026.8 I have started a new position as Assistant Professor at Rochester Institute of Technology (RIT)!
+- 2026.7 We organized the first Workshop on Multilinguality in the Era of Large Language Models (MeLLMs) at ACL 2026.
+- 2026.5 We presented the tutorial Conversational Search: From Fundamentals to Frontiers in the Age of Agents at WWW 2026.
+- 2026.4 We have six papers accepted by SIGIR 2026.
+- 2026.4 We have six papers accepted by ACL 2026.
+- 2026.1 We have one paper and one tutorial accepted by WWW 2026.
+
 
 Honors and Awards
 ======
@@ -31,13 +42,6 @@ Professional Experience
 *Palo Alto, Bay Area, USA* — *Jun 2024 – Dec 2024*  
 **Project:** *Unifying Retrieval and Generation for LLMs in Conversations*  
 **Advisors:** Meng Jiang, Yifan Gao  
-
-
-### **Ant Group**, Research Intern  
-*Hangzhou, China* — *May 2021 – Oct 2021*  
-**Project:** *A Customized Text Sanitization Mechanism with Differential Privacy*  
-**Co-Advisor:** Cen Chen  
-
 
 ### **Dalhousie University & MITACS**, Research Intern  
 *Halifax, Canada* — *Jun 2019 – Sep 2019*  
@@ -110,12 +114,8 @@ Academic Service
 - *ACM Computing Surveys (CSUR)*  
 - *Information Processing and Management (IPM)*, Elsevier  
 - *IEEE Transactions on Human-Machine Systems (THMS)*
+- *Artificial Intelligence Review (AIR)*, Spring Nature
+- *Knowledge-Based Systems Journal (KBS)*, Spring Nature
+- *Journal of Intelligent Information Systems (JIIS)*, Spring Nature
+- *International Journal of Digital Earth (IJDE)*
 
-Talks
-======
-- *Open Large Language Model Decoding to Incorporate Retrieval Quality in RAG*, hosted by **CLIQ-AI**, 2026.03
-- *Paradigms of Information Retrieval in the era of LLM*, hosted by **Microsoft Research India**, 2025.10
-- *Optimizing Retrieval and Answer Generation for Large Language Models in Conversations*, hosted by **Prof. Yi Zhang** at UC Santa Scuz, 2025.10
-- *Unifying Retrieval and Response Generation for Large Language Models in Conversations*, hosted by **The FinAI**, 2025.08
-- *Integrating Large Language Model in Conversational Search*, hosted by **MILA-IVADO**, 2025.03
-- *Recent Advances and New Frontiers of Conversational Search*, hosted by **Prof. Yi Fang** at Santa Clara University, 2024.10
