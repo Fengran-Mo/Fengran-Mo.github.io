@@ -119,3 +119,6 @@ Academic Service
 - *Journal of Intelligent Information Systems (JIIS)*, Spring Nature
 - *International Journal of Digital Earth (IJDE)*
 
+Teaching
+======
+- *Information Retrieval* CSCI 536/636.  
