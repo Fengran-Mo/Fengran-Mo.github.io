@@ -9,9 +9,9 @@ redirect_from:
 
 I am an Assistant Professor at Rochester Institute of Technology (RIT). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by Prof. Jian-Yun Nie. 
 
-I have broad interests in Conversational and Interactive AI, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
+I have broad interests in Conversational and Interactive AI systems, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
 
-**I am currently recruiting Ph.D. students starting in Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format.**
+**I am currently recruiting Ph.D. students starting in Spring and Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format.**
 
 News
 ======
@@ -52,7 +52,7 @@ Selected Publications
 ======
 I have published more than ten papers as first author and a set of papers with different cooperators in top-tier conferences and prestigious journals, including ACL, WWW, SIGIR, EMNLP, KDD, CIKM, WSDM, ICLR, AAAI, IJCAI, ICDM, IPM, and ACM TOIS, etc. 
 
-The full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
+The full publication list can be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
 - **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792524) (**Highlight as the Most Recently Exciting Study!**)
 
