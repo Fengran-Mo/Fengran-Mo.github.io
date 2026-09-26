@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor at Rochester Institute of Technology (RIT). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by Prof. Jian-Yun Nie. 
 
-I have broad interests in Conversational and Interactive AI systems, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
+I have broad interests in Conversational and Interactive AI systems, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Agentic systems, and AI for domain-specific applications.
 
 **I am currently recruiting Ph.D. students starting in Spring and Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format. (I apologize that I cannot reply to all due to the huge number of requests)**
 
