@@ -11,13 +11,14 @@ I am an Assistant Professor at Rochester Institute of Technology (RIT). I obtain
 
 I have broad interests in Conversational and Interactive AI systems, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Multilingualism, and AI for domain-specific applications.
 
-**I am currently recruiting Ph.D. students starting in Spring and Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format.**
+**I am currently recruiting Ph.D. students starting in Spring and Fall 2027. I am also looking for Bachelor and Master students for research project cooperation (both in person and remote) and dissertation/internship supervision (RIT students only). Please drop me an email if you are interested in working with me in any format. (I apologize that I cannot reply to all due to the huge number of requests)**
 
 News
 ======
+- 2026.9 We have one paper accepted by NeurIPS 2026.
 - 2026.8 I have started a new position as Assistant Professor at Rochester Institute of Technology (RIT)!
 - 2026.7 We organized the first Workshop on Multilinguality in the Era of Large Language Models (MeLLMs) at ACL 2026.
-- 2026.5 We presented the tutorial Conversational Search: From Fundamentals to Frontiers in the Age of Agents at WWW 2026.
+- 2026.5 We organized the tutorial Conversational Search: From Fundamentals to Frontiers in the Age of Agents at WWW 2026.
 - 2026.4 We have six papers accepted by SIGIR 2026.
 - 2026.4 We have six papers accepted by ACL 2026.
 - 2026.1 We have one paper and one tutorial accepted by WWW 2026.
