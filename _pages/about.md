@@ -17,6 +17,7 @@ News
 ======
 - 2026.9 We have one paper accepted by NeurIPS 2026.
 - 2026.8 I have started a new position as Assistant Professor at Rochester Institute of Technology (RIT)!
+- 2026.8 We have one paper accepted by EMNLP 2026.
 - 2026.7 We organized the first Workshop on Multilinguality in the Era of Large Language Models (MeLLMs) at ACL 2026.
 - 2026.5 We organized the tutorial Conversational Search: From Fundamentals to Frontiers in the Age of Agents at WWW 2026.
 - 2026.4 We have six papers accepted by SIGIR 2026.
