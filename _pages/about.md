@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Rochester Institute of Technology (RIT). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by Prof. Jian-Yun Nie. 
+I am an Assistant Professor in the Department of Computer Science at Rochester Institute of Technology (RIT). I obtained my Ph.D. degree and Master degree in Computer Science from Université de Montréal, advised by Prof. Jian-Yun Nie. 
 
 I have broad interests in Conversational and Interactive AI systems, Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), Agentic systems, and AI for domain-specific applications.
 
@@ -56,7 +56,7 @@ I have published more than ten papers as first author and a set of papers with d
 
 The full publication list can be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792524) (**Highlight as the Most Recently Exciting Study!**)
+- **Fengran Mo**, Zhan Su, Yuchen Hui, Jinghan Zhang, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie. _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in Retrieval-Augmented Generation._ *Proceedings of the ACM Web Conference*, Dubai, UAE, 2026. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792524)
 
 - **Fengran Mo**, Yifan Gao, Sha Li, Hansi Zeng, Xin Liu, Zhaoxuan Tan, Xian Li, Jianshu Chen, Dakuo Wang, Meng Jiang. _Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning._ *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*, San Diego, USA, 2026. [[pdf]](https://arxiv.org/abs/2601.13115)
 
